@@ -14,3 +14,23 @@ A terminal-based number guessing game built with Python that uses SQLAlchemy ORM
 - Pipenv for dependency and virtual environment management.
 
 ---
+
+## 🧑‍💻 User Stories
+
+1. **As a user, I want to create a username**, so I can save and track my game history.
+2. **As a user, I want to receive feedback on each guess**, so I know if I’m getting closer.
+3. **As a user, I want to know how many attempts I used**, so I can track my performance.
+
+---
+
+## 🗃️ Database Models
+
+- **User**: Represents a player.
+- **Game**: Represents an instance of a game played by a user.
+- **Guess**: Tracks individual guesses made in each game.
+
+### Relationships:
+- A `User` has many `Games`
+- A `Game` has many `Guesses`
+
+---
