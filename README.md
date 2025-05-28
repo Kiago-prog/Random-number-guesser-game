@@ -52,3 +52,13 @@ git clone <your-repo-url>
 cd number_guessing_game
 ```
 
+### 2. Install Dependencies with Pipenv
+```bash
+pipenv install
+pipenv shell
+```
+
+### 3. Create the Database
+``bash
+python create_tables.py
+```
