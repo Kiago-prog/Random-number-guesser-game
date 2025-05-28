@@ -61,7 +61,7 @@ pipenv shell
 ### 3. Create the Database
 ``bash
 python create_tables.py
-```
+``
 
 ### 4. Run the Game
 ```bash
