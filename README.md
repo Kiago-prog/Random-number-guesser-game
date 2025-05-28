@@ -43,3 +43,12 @@ A terminal-based number guessing game built with Python that uses SQLAlchemy ORM
 - Pipenv (virtual environment & package management)
 
 ---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone <your-repo-url>
+cd number_guessing_game
+```
+
