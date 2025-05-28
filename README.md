@@ -34,3 +34,12 @@ A terminal-based number guessing game built with Python that uses SQLAlchemy ORM
 - A `Game` has many `Guesses`
 
 ---
+
+## 🧱 Tech Stack
+
+- Python 3
+- SQLAlchemy
+- SQLite (default database)
+- Pipenv (virtual environment & package management)
+
+---
