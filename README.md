@@ -62,3 +62,11 @@ pipenv shell
 ``bash
 python create_tables.py
 ```
+
+### 4. Run the Game
+```bash
+python cli.py
+```
+
+### 📬 Contact
+Created by Kiago Roy
