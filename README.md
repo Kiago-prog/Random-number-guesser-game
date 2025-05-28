@@ -65,7 +65,7 @@ python create_tables.py
 
 ### 4. Run the Game
 ```bash
-python cli.py
+python3 cli.py
 ```
 
 ### 📬 Contact
